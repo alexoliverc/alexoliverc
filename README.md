@@ -34,9 +34,9 @@
 
 <div align="center">
   <!-- Cartão de Estatísticas (Estilo Anurag Hazra) -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alexoliverc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <!-- Cartão de Linguagens Mais Usadas -->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexoliverc&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ---
@@ -54,6 +54,6 @@
 ### 📫 Vamos nos conectar?
 
 <p align="left">
-  <a href="LINK_DO_SEU_LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="mailto:SEU_EMAIL_AQUI"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="[LINK_DO_SEU_LINKEDIN](https://www.linkedin.com/in/%C3%A1lex-oliveira-costa-585750239/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:alexoliveirac014@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </p>
